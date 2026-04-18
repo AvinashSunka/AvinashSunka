@@ -10,7 +10,7 @@ I’m driven by a constant curiosity to explore emerging tools and frameworks to
 
 ## 🛠️ Technologies & Tools
 
-<img src="/assets/html.svg" alt="HTML" height="100" /> <img src="/assets/css.svg" alt="CSS" height="100" /> <img src="/assets/javascript.svg" alt="JS" height="100" /> <img src="/assets/java.svg" alt="Java" height="100" /> <img src="/assets/python.svg" alt="Python" height="100" /> <img src="/assets/django.svg" alt="Django" height="100" /> <img src="/assets/postgresql.svg" alt="PostgreSQL" height="100" /> <img src="/assets/react.svg" alt="React" height="100" /> <img src="/assets/spring.svg" alt="Spring" height="100" />
+<img src="/assets/html.svg" alt="HTML" height="100" /> <img src="/assets/css.svg" alt="CSS" height="100" /> <img src="/assets/javascript.svg" alt="JS" height="100" /> <img src="/assets/java.svg" alt="Java" height="100" /> <img src="/assets/python.svg" alt="Python" height="100" /> <img src="/assets/django.svg" alt="Django" height="100" /> <img src="/assets/postgresql.svg" alt="PostgreSQL" height="100" /> <img src="/assets/react.svg" alt="React" height="100" /> <img src="/assets/Spring.svg" alt="Spring" height="100" />
 
 ---
 
